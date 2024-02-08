@@ -21,7 +21,7 @@ Out of the 18,765 loan status's that are healthy (low-risk), the model predicted
 
 Out of the 619 loan status's that are non-healthy (high-risk), the model predicted 563 as non-healthy correctly and 56 as non-healthy incorrectly.
 
-	                                    Predicted Healthy Loans (low-risk)	Predicted Non-Healthy Loans (high-risk)
+Predicted Healthy Loans (low-risk)	Predicted Non-Healthy Loans (high-risk)
 Actual Healthy Loans (low-risk)	                        18655	                            110
 Actual Non-Healthy Loans (high-risk)	                36	                                583
 
@@ -40,7 +40,7 @@ Out of the 18,765 loan status's that are healthy, the model predicted 18,649 as 
 
 Out of the 619 loan status's that are non-healthy (high-risk), the model predicted 615 as non-healthy correctly and 4 as non-healthy incorrectly.
 
-	                                    Predicted Healthy Loans (low-risk)	Predicted Non-Healthy Loans (high-risk)
+Predicted Healthy Loans (low-risk)	Predicted Non-Healthy Loans (high-risk)
 Actual Healthy Loans (low-risk)	                    18646	                                119
 Actual Non-Healthy Loans (high-risk)	              4	                                    615
 
